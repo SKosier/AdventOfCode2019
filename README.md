@@ -15,4 +15,5 @@ Here I keep my solutions for the Advent of Code of 2019.
  9. [Day 9](day9/day9.cpp)
  11. [Day 11](day11/day11.cpp)
  12. [Day 12](day12/Day12.java)
+ 16. [Day 16](day16/day16.cpp)
  
